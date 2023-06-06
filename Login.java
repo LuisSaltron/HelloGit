@@ -6,4 +6,8 @@ public class Login {
         this.username = username;
         this.password = password;
     }
+
+    public void helloWorld(){
+        System.out.println("Hello world V1");
+    }
 }
